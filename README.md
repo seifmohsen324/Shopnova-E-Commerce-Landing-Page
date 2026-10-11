@@ -39,7 +39,7 @@ No installation is required because this is a static website.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/shopnova.git
+git clone https://github.com/seifmohsen324/Shopnova-E-Commerce-Landing-Page.git
 ```
 
 2. Open the project folder:
